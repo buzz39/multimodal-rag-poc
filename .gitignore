@@ -1,0 +1,8 @@
+# vectorstore/
+poc/vectorstore/
+__pycache__/
+*.pyc
+.env
+
+# Confidential documents — NEVER commit
+sample-data/confidential/
